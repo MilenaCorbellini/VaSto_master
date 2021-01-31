@@ -35,8 +35,8 @@ div.box-body.Edition  {font-size:83% !important; text-align:justify}
 .diplomaticEdition .add[data-hand="#A3"] {background-color:transparent ; color:green !important}
 .diplomaticEdition .del[data-hand="#A4"] {background-color:transparent ; text-decoration:line-through !important; text-decoration-color:orange !important}
 .diplomaticEdition .add[data-hand="#A4"] {background-color:transparent ; color:orange !important}
-.diplomaticEdition .del[data-hand="#A5"] {background-color:transparent; text-decoration:line-through !important; text-decoration-color:purple !important}
-.diplomaticEdition .add[data-hand="#A5"] {background-color:transparent ; color:purple !important}
+.diplomaticEdition .del[data-hand="#A5"] {background-color:transparent; text-decoration:line-through !important; text-decoration-color:violet !important}
+.diplomaticEdition .add[data-hand="#A5"] {background-color:transparent ; color:violet !important}
 
 .colorLegend .del[data-hand="#A1"] {background-color:transparent; text-decoration:line-through !important; text-decoration-color:red !important;}
 .colorLegend .add[data-hand="#A1"] {background-color:transparent ; color:red !important}
@@ -46,8 +46,8 @@ div.box-body.Edition  {font-size:83% !important; text-align:justify}
 .colorLegend .add[data-hand="#A3"] {background-color:transparent ; color:green !important}
 .colorLegend .del[data-hand="#A4"] {background-color:transparent ; text-decoration:line-through !important; text-decoration-color:orange !important}
 .colorLegend .add[data-hand="#A4"] {background-color:transparent ; color:orange !important}
-.colorLegend .del[data-hand="#A5"] {background-color:transparent ; text-decoration:line-through !important; text-decoration-color:purple !important}
-.colorLegend .add[data-hand="#A5"] {background-color:transparent ; color:purple !important}
+.colorLegend .del[data-hand="#A5"] {background-color:transparent ; text-decoration:line-through !important; text-decoration-color:violet !important}
+.colorLegend .add[data-hand="#A5"] {background-color:transparent ; color:violet !important}
 .colorLegend .hi {font-weight: bold; margin-top:2rem!important; margin-bottom:0px !important}
 
 .front .p {padding-left:2rem!important; padding-right:2rem!important; padding-top:0.2rem; padding-bottom:0.2rem; text-align:justify !important}
