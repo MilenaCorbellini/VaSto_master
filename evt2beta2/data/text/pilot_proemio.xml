@@ -513,7 +513,7 @@
                     <person xml:id="S_Giovannigualberto">
                         <persName type="pers_citata" sameAs="https://viaf.org/viaf/268054772/"
                             ref="https://www.treccani.it/enciclopedia/santo-giovanni-gualberto_(Dizionario-Biografico)/"
-                            >San Giovanniguakberto</persName>
+                            >San Giovannigualberto</persName>
                     </person>
                     <person xml:id="Guido_Novello">
                         <persName type="pers_citata" sameAs=""
@@ -668,7 +668,7 @@
                         <district type="chiesa">San Piero Scheraggio</district>
                     </place>
                     <place xml:id="Altafronte">
-                        <district type="castello">Castello d'Altafronte</district>
+                        <district type="castello">Castello d'Altafronte</district><ptr target="http://www.w3.org/TR/xptr-framework/"></ptr>
                     </place>
                     <place xml:id="Ponte_Rubaconte">
                         <district type="ponte">Ponte Rubaconte</district>
@@ -1227,7 +1227,7 @@
                                         mente scorretti: e spezialmente in quello, dove egli la misura di <placeName ref="Firenze">Firenze</placeName><lb/> 
                         del terzo cerchio discrive, e dichiara, come potra conoscere per se <lb/>
                         stesso ciascuno, che vorrà farne, come ho fatto io, diligentissimamente <lb/>
-                        la pruova:. E perche pu#ò ognuno, che vuole, quello vedere, che ne <lb/>
+                        la pruova:. E perche può ognuno, che vuole, quello vedere, che ne <lb/>
                         scrisse <persName ref="#Giovanni_Villani">Giovanni</persName> nel tempo suo, <choice><orig>à</orig><corr>a</corr></choice> me è paruto di dover seguitare <lb/>
                         piu che Alcuno altro, <persName ref="#Niccolò_Scultore">Niccolò Scultore, chiamato il Tribolo</persName>, e <persName ref="#Benvenuto_di_Lorenzo_della_Golpaia">Benve<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
                         nuto di Lorenzo dalla Golpaia</persName>, due elevatissimi ingegni del secolo <lb/>
@@ -1281,7 +1281,7 @@
                         ”<persName ref="#Silla">Silla</persName> con quantità di Romani venne ad habitare nel piano, ove \è/ hoggi <lb/>
                         ” <placeName ref="#Firenze">Firenze</placeName> in sulla ripa d’Arno, che in quel tempo si chiamava Sarno; <lb/>
                         ” e quivi in sulla riva fondarono certe casette, e capanne intorno al ponte, <lb/>
-                        ” il quale hoggi si chiama <placeName ref="#Ponte_Vecchio">ponte vecchio, e vacchereccia</placeName>, e <placeName ref="San_Michele">san Michele in Or<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        ” il quale hoggi si chiama <placeName ref="#Ponte_Vecchio">ponte vecchio, e vacchereccia</placeName>, e <placeName ref="#San_Michele">san Michele in Or<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
                         ” to</placeName>, la qual villata si chiamava prima <placeName ref="#Villa_Sarnia">Villa Sarnina, e poi Arnina</placeName>, <lb/>
                         ” et alcuni altri aggiungono, che il primiero nome suo fu da <persName ref="#Giulio_Cesare">Cesare</persName>, Cesarea. <lb/>
                         M<emph rend="italic">esser</emph> <persName ref="#Leonardo_dArezzo">Lionardo d’Arezzo</persName> nel principio della sua Storia dice, lei esse<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
@@ -1726,7 +1726,7 @@ minciavano al capo di la d’Arno del <placeName ref="#Ponte_Vecchio">ponte Vecc
 chiamato <placeName ref="#Borgo_SIacopo">borgo San Iacopo</placeName>, nella fine del quale era una porta, dove fu<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
 rono poi le case de’ <persName ref="#Frescobaldi">Frescobaldi</persName>, per la quale s’andava a <placeName ref="#Pisa">Pisa</placeName>. Il se<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
 condo verso mezzo di era quello <placeName ref="#S_Felicita">di santa Felicita</placeName>; il quale haveva una <lb/>
-                    porta, dove fu poi <placeName ref="San_Felice">san Felice in piazza</placeName>; per la quale s’andava <choice><orig>à</orig><corr>a</corr></choice> <placeName ref="#Siena">Siena;</placeName><lb/>
+                    porta, dove fu poi <placeName ref="#San_Felice">san Felice in piazza</placeName>; per la quale s’andava <choice><orig>à</orig><corr>a</corr></choice> <placeName ref="#Siena">Siena;</placeName><lb/>
 Il terzo, et ultimo Borgo verso Levante si chiamò per lo essere egli ha<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
 bitato da Gentucche, e persone più che di bassa mano, <placeName ref="#Borgo_Pidocchio">Borgo pidocchio</placeName><choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
 so, et i<del hand="#A2">l</del><add hand="#A2">n</add> capo d’esso era la porta, la quale perche per lo cammino di <placeName ref="#Toscana">Feg<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
