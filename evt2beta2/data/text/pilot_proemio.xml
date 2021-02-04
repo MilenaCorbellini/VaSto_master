@@ -668,7 +668,7 @@
                         <district type="chiesa">San Piero Scheraggio</district>
                     </place>
                     <place xml:id="Altafronte">
-                        <district type="castello">Castello d'Altafronte</district><ptr target="http://www.w3.org/TR/xptr-framework/"></ptr>
+                        <district type="castello">Castello d'Altafronte</district><link target="http://www.w3.org/TR/xptr-framework/"></link>
                     </place>
                     <place xml:id="Ponte_Rubaconte">
                         <district type="ponte">Ponte Rubaconte</district>
