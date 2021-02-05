@@ -538,11 +538,11 @@
                      </listPerson>
                     
                 <listPlace>
-                    <place xml:id="Firenze">
-                        <settlement type="città">Firenze</settlement>
-                    </place>
                     <place xml:id="Cortona">
                         <settlement type="città">Cortona</settlement>
+                    </place>
+                    <place xml:id="Firenze">
+                        <settlement type="città">Firenze</settlement>
                     </place>
                     <place xml:id="Lucca">
                         <settlement type="città">Lucca</settlement>
@@ -659,7 +659,7 @@
                         <district type="porta">Porta Carraia</district>
                     </place>
                     <place xml:id="Campo_Corbolini">
-                        <district type="campo">Cmpo Corbolini</district>
+                        <district type="campo">Campo Corbolini</district>
                     </place>
                     <place xml:id="P_Peruzza">
                         <district type="porta">Porta Peruzza</district>
@@ -1634,7 +1634,7 @@ sta nuovame<emph rend="italic">n</emph>te murata, <choice><orig>ò</orig><corr>o
 
 <pb n="697" xml:id="p_697" facs="data/images/single/697.JPG"/>
                     <lb n="[697]"/>
-                    <add hand="#A5" place="margin" n="miaone"> “<placeName ref="#Firenze">Fir<emph rend="italic">en</emph>ze</placeName> Rifatta o <lb/> restaurata nel <lb/> <date>801</date> da <persName ref="#Carlo_Magno">Carlo <lb/> Magno</persName>.”</add><lb/>
+                    <add hand="#A5" place="margin" n="miaone"> “<placeName ref="#Firenze">Fir<emph rend="italic">en</emph>ze</placeName> Rifatta o <lb/> restaurata nel <lb/> <date when="0801">801</date> da <persName ref="#Carlo_Magno">Carlo <lb/> Magno</persName>.”</add><lb/>
 nell’entrar d’Aprile l’anno ottocento uno al tempo di <persName ref="#Leone_III">Papa Leone Terzo</persName>, <lb/>
 per gli preghi, e sollecitudine delli antichi Cittadini di <placeName ref="#Firenze">Fir<emph rend="italic">en</emph>ze</placeName>; et in <lb/>
 ispezie de’ Fiegiovanni, cioè de’ Figliuoli di Giovanni, e de’ Fighinoldi, <lb/>
@@ -1871,7 +1871,7 @@ altissimo, e scosceso sasso è il <placeName ref="#Camaldoli">Munistero de’ fr
 Francesco</placeName>, lontano <del hand="#A3">nove</del><add hand="#A3">4</add>] miglia da <placeName ref="#Bibbiena">Bibbiena</placeName>. Tra la porta alla Giu<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
 stizia, e quella alla Croce è una porta rimurata, la quale si chiamò <lb/>
 da prima <placeName ref="#P_Ghibellina">la porta Ghibellina</placeName>, onde è detta ancora tutta la via, che va <lb/>
-insino alle <placeName ref="#Stinche">Stinche</placeName>; la qual porta fu edificata nel <date>mille dugento ses<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+insino alle <placeName ref="#Stinche">Stinche</placeName>; la qual porta fu edificata nel <date when="1260">mille dugento ses<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
 santa</date> da <persName ref="#Guido_Novello">Guido Novello Potesta</persName> in <placeName ref="#Firenze">Firenze</placeName> per lo <persName ref="#Manfredi">Re Manfredi</persName>, <lb/>
 quando i Guelfi, senza havere chi gli cacciasse, si fuggirono di <placeName ref="#Firenze">Firenze</placeName>,<lb/>
 i quali poscia ritornati la chiamarono porta <placeName ref="#P_Ghibellina">Guelfa</placeName>. La terza <placeName ref="#P_Pinti">por<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
