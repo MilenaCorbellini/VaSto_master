@@ -801,7 +801,7 @@
                         <district type="torre"> Torre</district>
                     </place>
                      <place xml:id="S_Girolamo">
-                        <district type="monastero"> Monastero dei frati mendici di an San Girolamo</district>
+                        <district type="monastero"> Monastero dei frati mendichi di an San Girolamo</district>
                     </place>
                      <place xml:id="Vergine_Maria_Quercia">
                         <district type="chiesa"> Chiesa della vergine Maria in Quercia</district>
