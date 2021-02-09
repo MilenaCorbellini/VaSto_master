@@ -265,9 +265,12 @@
                             >Gneo Pompeo</persName>
                     </person>
                     <person xml:id="Macrino">
-                    <persName type="pers_citata" sameAs="https://viaf.org/viaf/89202499/"
-                            ref="https://www.treccani.it/enciclopedia/macrino/"
-                            >Marco Opellio MAcrino, Imperatore Romano</persName>
+                    <persName type="pers_citata"
+                            >Macrino</persName>
+                    </person>
+                    <person xml:id="Marzio">
+                        <persName type="pers_citata" 
+                            >Marzio</persName>
                     </person>
                     <person xml:id="Fiorino">
                     <persName 
@@ -534,6 +537,16 @@
                         <persName type="pers_citata" sameAs=""
                             ref="https://www.treccani.it/enciclopedia/anton-francesco-albizzi_(Dizionario-Biografico)/"
                             >Anton Francesco Albizzi</persName>
+                    </person>
+                    <person xml:id="Frate_Annio_Viterbese">
+                        <persName type="pers_citata" sameAs=""
+                            ref="https://www.treccani.it/enciclopedia/giovanni-nanni_%28Dizionario-Biografico%29/"
+                            >Frate Annio Viterbese</persName>
+                    </person>
+                    <person xml:id="Ercole_Egizio">
+                        <persName type="pers_citata" sameAs=""
+                            ref="https://www.treccani.it/enciclopedia/eracle_%28Enciclopedia-dell%27-Arte-Antica%29/#:~:text=ERACLE%20(%E1%BF%BE%CE%97%CF%81%CE%B1%CE%BA%CE%BB%E1%BF%86%CF%82%2C%20Hercules%2C,fino%20a%20quella%20pi%C3%B9%20tarda."
+                            >Ercole Egizio</persName>
                     </person>
                      </listPerson>
                     
@@ -1241,7 +1254,7 @@
                         bro che ho io <choice><orig>à</orig><corr>a</corr></choice> penna; e nel trentottesimo del primo nello stampato à <lb/>
                         <placeName ref="#Venezia">Vinezia</placeName> nel quarantanove, è, che <placeName ref="Firenze">Firenze</placeName> fusse edificata dopo la rovi<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
                         na della <placeName ref="#Fiesole">Città di Fiesole</placeName> da quattro Signori Romani,<persName ref="#Giulio_Cesare"> Giulio Cesare</persName>, <persName ref="#Macrino">Ma<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
-                        crino</persName>, <persName ref="#Gneo_Pompeo">Gneo Pompeo</persName> e Marzio con questa condizione, che qual di loro <lb/>
+                        crino</persName>, <persName ref="#Gneo_Pompeo">Gneo Pompeo</persName> e <persName ref="#Marzio">Marzio</persName> con questa condizione, che qual di loro <lb/>
                         havesse piu tostamente il suo lavoro compito, appellasse <placeName ref="#Firenze">la Città</placeName> dal suo <lb/>
                         nome, essendosi ciascuno diviso la sua parte del lavorio; ma perche <lb/>
                         tutti quattro finirono l’opera in un medesimo tempo, Nullo di loro ac<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
@@ -1369,9 +1382,9 @@
                         zia</placeName>, <choice><orig>ò</orig><corr>o</corr></choice> in alcuno altro modo somigliante. E qual maggior vanità, ò piu <lb/>
                             perduta opera sarebbe, che il volere le ridicole oppenioni d’alcuni Mo<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
                         derni con ragioni, <choice><orig>ò</orig><corr>o</corr></choice> con autorità confutare? i quali dietro gli scritti <lb/>
-                        di Frate Annio Viterbese, e d’Altri in gran parte, secondo il giudizio <lb/>
+                    di <persName ref="#Frate_Annio">Frate Annio Viterbese</persName>, e d’Altri in gran parte, secondo il giudizio <lb/>
                         nostro favolosi Scrittori, affermano  <placeName ref="#Firenze">Firenze</placeName> essere stata edificata da <lb/>
-                        Hercole Egizzio anni circa mille secento ottanta innanzi l’avvenime<emph rend="italic">n</emph>to <lb/>
+                        <persName ref="#Ercole_Egizio">Hercole Egizzio</persName> anni circa <date when="1780">mille secento ottanta</date> innanzi l’avvenime<emph rend="italic">n</emph>to <lb/>
                         di Cristo? e che il vero nome di <placeName ref="#Firenze">Firenze</placeName> non fu ne Firens da Fir, che <lb/>
                         nella lingua Estrusca antica significa correre, e da ens che vuol dire <lb/>
                             Castello, quasi Castello fluente, come afferma <persName ref="#Sempronio_Tantalo">Sempronio Tantalo Dotto<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
@@ -1702,7 +1715,7 @@ sull’Arno alla <placeName ref="#P_Carraia">porta chiamata Carraia</placeName>.
 te di mezzo dì colle mura non molto alte infino al castello detto alta<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
 fronte, lasciata dietro <placeName ref="#S_Piero_Scheraggio">San Piero Scheraggio</placeName> una postierla, la qua<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
 le dal casato di quei <persName ref="#della_Pera">della Pera</persName>, come dice <persName ref="#Dante">Dante</persName> si chiamava, <lb/>
-<placeName ref="#P_Peruzza">porta Peruzza</placeName>. Dal <span n="Castello"><placeName ref="#Altafronte">Castello d’Altafronte</placeName></span> si discostavano alqua<emph rend="italic">n</emph><choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+<placeName ref="#P_Peruzza">porta Peruzza</placeName>. Dal <span n="Castello"><placeName xml:id="Castello" ref="#Altafronte">Castello d’Altafronte</placeName></span> si discostavano alqua<emph rend="italic">n</emph><choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
 to le mura dalla riva d’Arno, in guisa, che nel mezzo vi rimaneva <lb/>
 una strada, dove fecero due postierle, per le quali s’andava al fiu<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
 me. Torsero poi le mura alquanto, e le rivolsero dove fu nell’<lb/>
