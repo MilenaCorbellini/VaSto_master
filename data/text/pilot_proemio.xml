@@ -476,7 +476,7 @@
                     <person xml:id="Giustiniano">
                         <persName type="pers_citata" 
                             ref="https://www.treccani.it/enciclopedia/giustiniano-i-imperatore-d-oriente/"
-                            >Giustinano, Imperatore</persName>
+                            >Giustiniano, Imperatore</persName>
                     </person>
                      <person xml:id="Paolo_Emilio">
                         <persName type="pers_citata" sameAs=""
@@ -1281,7 +1281,7 @@
                         Autori credeva vero; e nell’altre cose di <placeName ref="#Firenze">Firenze</placeName> quello, che scritto <lb/>
                         da lui fu verissimo; il perche grande obligo gli debbono havere i Fio<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
                         rentini, e tutti coloro altresì, che di sapere i fatti de’ Fiorentini pre<emph rend="italic">n</emph><choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
-                        dono diletto. Questa oppenione seguitò non solamente <persName ref="Domenico_di_Lionardo">Domenico <lb/>
+                        dono diletto. Questa oppenione seguitò non solamente <persName ref="#Domenico_di_Lionardo">Domenico <lb/>
                         di Lionardo di Boninsegna</persName> nel principio della sua Cronaca, la qua<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
                         le non è altro, che una abbreviazione di quelle del <persName ref="#Giovanni_Villani">Villano</persName>, ma quasi <lb/>
                         tutti i piu Antichi di quei, che ho veduto io, i quali scrivessero <choice><orig>ò</orig><corr>o</corr></choice>  <lb/>
@@ -1408,7 +1408,7 @@
                         e tali <choice><orig>ò</orig><corr>o</corr></choice> non havessono, <choice><orig>ò</orig><corr>o</corr></choice> non si ricordassino d’haver veduto un luogo di <lb/>
                        <persName ref="#Lucio_Floro">Lucio Floro</persName>, antico, et autentico Scrittore, il quale è nella sua Epitome, <lb/>
                         cioè nel suo abbreviamento delle storie di <persName ref="#Tito_Livio">Titolivio</persName>, nel terzo libro, nell’<lb/>
-                        ultima parte delle guerre civili tra <persName ref="#Silla">Silla</persName>, e <persName ref="Gaio_Mario">Mario</persName>; e dice così: <lb/>
+                        ultima parte delle guerre civili tra <persName ref="#Silla">Silla</persName>, e <persName ref="#Gaio_Mario">Mario</persName>; e dice così: <lb/>
                             ” Municipia <placeName ref="Italia">Italię</placeName> splendidissima subhasta venierunt, <placeName ref="#Preneste">Spoletum</placeName>, <placeName ref="#Terni">Inter<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
                         ” amnum</placeName>, <placeName ref="#Preneste">Pręnestae</placeName>, <placeName ref="#Firenze">Florentia</placeName>; cioè, <lb/>
                         Si venderono all’incanto i piu chiari municipij d’<placeName ref="#Italia">Italia</placeName><placeName ref="#Spoleto">Spuleto</placeName>, <placeName ref="#Firenze">Terni</placeName>, <lb/>
@@ -1611,7 +1611,7 @@ leto</placeName>, <persName ref="#Cipriano">Cipriano</persName> <placeName ref="
 dubbio è, che <persName ref="#Agazio">Agazio</persName>, il quale scrisse grecamente delle guerre de’ Gotti,<lb/> 
 cominciando dove lasciò <persName ref="Procopio">Procopio</persName>, cioè da <persName ref="#Atteia">Atteia</persName>, il quale dopo la <lb/>
                             morte di <persName ref="#Totila">Totila</persName> fu creato Capitano de’ Gotti, dice, che Narsete Eu<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
-nuco, il quale fu mandato da <persName ref="#Giustinino">Giustiniano Imperadore</persName> in luogo di <lb/>
+nuco, il quale fu mandato da <persName ref="#Giustiniano">Giustiniano Imperadore</persName> in luogo di <lb/>
 <persName ref="#Belisario">Belisario</persName>, non potendo espugnare non sò qual terra, deliberò di no<emph rend="italic">n</emph> <lb/>
                             volere impiegare in quella impresa tutte le genti; ma  <add hand="#A2">d’</add>andarsene <choice><orig>à</orig><corr>a</corr></choice> Fio<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
 renza, e <placeName ref="#Civitavecchia">Civitavecchia</placeName>, terre allora picciole di <placeName ref="#Toscana">Toscana</placeName>; e quivi ordi<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
