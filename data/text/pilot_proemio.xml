@@ -420,7 +420,7 @@
                     <person xml:id="Radagasio_da_Stilicone">
                         <persName type="pers_citata" sameAs=""
                             ref="https://www.treccani.it/enciclopedia/radagaiso/"
-                            >Rodagasio da Stilicone</persName>
+                            >Radagasio da Stilicone</persName>
                     </person>
                      <person xml:id="Matteo_Palmieri">
                         <persName type="pers_citata" sameAs="https://viaf.org/viaf/64097675/"
@@ -523,7 +523,7 @@
                             ref="https://www.treccani.it/enciclopedia/guido-novello-guidi_%28Dizionario-Biografico%29/#:~:text=GUIDI%2C%20Guido%20Novello.,Pallavicini%2C%20nacque%20intorno%20al%201227."
                             >Guido Novello, Podestà di Firenze</persName>
                     </person>
-                    <person xml:id="Lorenzo_Pierfrancesco">
+                    <person xml:id="Lorenzo_di_Pierfrancesco">
                         <persName type="pers_citata" sameAs="https://viaf.org/viaf/1380197/"
                             ref="https://www.treccani.it/enciclopedia/tag/lorenzo-di-pierfrancesco-de%27-medici/"
                             >Lorenzo di Pierfrancesco de'Medici</persName>
@@ -1551,10 +1551,10 @@ la prima, che havendo <persName ref="#Totila">Totila</persName> fatto disfare qu
 di <persName ref="#Belisario">Belisario</persName> in <placeName ref="#Italia">Italia</placeName> se gl’erano ribellate, <choice><orig>ò</orig><corr>o</corr></choice> per vendicarsi, <choice><orig>ò</orig><corr>o</corr></choice> per no<emph rend="italic">n</emph> <lb/>
                             havere a guardarle, pareva ragionevole, che disfacesse ancora <placeName ref="#Firenze">Firen<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
 ze</placeName>, la quale una era stata di quelle. La seconda, che essendo stato <lb/>
-                            sconfitto, preso, e morto <persName ref="Radagasio_da_Stilicone">Radagasio da Stilicone</persName> <choice><orig>à</orig><corr>a</corr></choice> piè de’ Monti di <placeName ref="#Fiesole">Fie<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                            sconfitto, preso, e morto <persName ref="#Radagasio_da_Stilicone">Radagasio da Stilicone</persName> <choice><orig>à</orig><corr>a</corr></choice> piè de’ Monti di <placeName ref="#Fiesole">Fie<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
                                 sole</placeName> con più di dugento mila Gotti <choice><orig>à</orig><corr>a</corr></choice> ridosso della Città, la quale non ha<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
 veano potuto pigliare, e quasi in sugl’occhij de’ Fiorentini; da’ quali <lb/>
-                            è verisimile, che <persName ref="Radagasio_da_Stilicone">Stilicone</persName> fusse aiutato, portava la ragione, che To<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                            è verisimile, che <persName ref="#Radagasio_da_Stilicone">Stilicone</persName> fusse aiutato, portava la ragione, che To<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
 tila per levare quella macchia di sul viso <choice><orig>à</orig><corr>a</corr></choice> se, et à’ suoi, la facesse <lb/>
                             abbruciare ,e gittare per terra: Alle quali ragioni s’aggiugne l’au<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
 torità di <persName ref="Matteo_Palmieri">Matteo Palmieri</persName>, huomo nel suo secolo di gran dottrina, <lb/>
@@ -1589,7 +1589,7 @@ E con tutte queste ragioni, e autorità sono Alcuni, i quali non credono,<lb/>
 che ella fusse disfatta mai, et hanno per favola che <persName ref="Carlo_Magno">Carlo il Grande</persName><lb/> 
 la rifacesse, se bene egli v’aggiunse alcun orname<emph rend="italic">n</emph>to, murandovi la <lb/>
 chiesa di <placeName ref="#Santo_Apostolo">S<emph rend="italic">an</emph>to Appostolo</placeName>, et alcuni altri edifizii; e la ragione allegata <lb/>
-da loro è, che <persName ref="Procopio">Procopio Cesariense</persName>, che scrisse le guerre de’ Gotti, nelle<lb/> 
+da loro è, che <persName ref="#Procopio">Procopio Cesariense</persName>, che scrisse le guerre de’ Gotti, nelle<lb/> 
 quali personalmente si trovò, non ne fa menzione alcuna; e quello che<lb/>
 <pb n="695" xml:id="p_695" facs="data/images/single/695.JPG"/>
                     <lb n="[695]"/>
