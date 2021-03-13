@@ -672,7 +672,7 @@
                         <district type="porta">Porta alla Carraia</district>
                     </place>
                     <place xml:id="Ponte_Carraia">
-                        <district type="ponte">Ponte alla Carraia</district><link ref="https://milenacorbellini.github.io/VaStoMap/"></link>
+                        <district type="ponte" ref="https://milenacorbellini.github.io/VaStoMap/">Ponte alla Carraia</district>
                     </place>
                     <place xml:id="Campo_Corbolini">
                         <district type="campo">Campo Corbolini</district><link target="https://milenacorbellini.github.io/VaStoMap/"></link>
