@@ -579,13 +579,13 @@
                         <settlement type="città">Fiesole</settlement>
                     </place>
                     <place xml:id="Ponte_Vecchio">
-                        <district type="ponte">Ponte Vecchio</district>
+                        <district type="ponte">Ponte Vecchio</district><link target="https://milenacorbellini.github.io/VaStoMap/"></link>
                     </place>
                     <place xml:id="Villa_Sarnia">
                         <district type="villa">Villa Sarnia</district>
                     </place>
                     <place xml:id="San_Michele">
-                        <district type="chiesa">San Michele in Orto</district>
+                        <district type="chiesa">San Michele in Orto</district><link target="https://milenacorbellini.github.io/VaStoMap/"></link>
                     </place>
                      <place xml:id="Italia">
                         <country type="nation">Italia</country>
@@ -606,7 +606,7 @@
                         <settlement type="città">Bisanzio</settlement>
                     </place>
                     <place xml:id="S_Maria">
-                        <district type="chiesa">Santa Maria Ritonda</district>
+                        <district type="chiesa">Santa Maria Ritonda</district><link target="https://milenacorbellini.github.io/VaStoMap/"></link>
                     </place>
                     <place xml:id="Verona">
                         <settlement type="città">Verona</settlement>
@@ -648,7 +648,7 @@
                         <district type="chiesa">Chiesa di Santa Maria in Campidoglio</district>
                     </place>
                     <place xml:id="S_Apostolo_Borgo">
-                        <district type="chiesa">Chiesa di Santo Apostolo in Borgo</district>
+                        <district type="chiesa">Chiesa di Santo Apostolo in Borgo</district><link target="https://milenacorbellini.github.io/VaStoMap/"></link>
                     </place>
                     <place xml:id="Rocca">
                         <district type="rocca">Rooca</district>
@@ -669,31 +669,34 @@
                         <district type="porta">Porta San Pagolo</district>
                     </place>
                     <place xml:id="P_Carraia">
-                        <district type="porta">Porta Carraia</district>
+                        <district type="porta">Porta alla Carraia</district>
+                    </place>
+                    <place xml:id="Ponte_Carraia">
+                        <district type="ponte">Ponte alla Carraia</district><link target="https://milenacorbellini.github.io/VaStoMap/"></link>
                     </place>
                     <place xml:id="Campo_Corbolini">
-                        <district type="campo">Campo Corbolini</district>
+                        <district type="campo">Campo Corbolini</district><link target="https://milenacorbellini.github.io/VaStoMap/"></link>
                     </place>
                     <place xml:id="P_Peruzza">
                         <district type="porta">Porta Peruzza</district>
                     </place>
                     <place xml:id="S_Piero_Scheraggio">
-                        <district type="chiesa">San Piero Scheraggio</district>
+                        <district type="chiesa">San Piero Scheraggio</district><link target="https://milenacorbellini.github.io/VaStoMap/"></link>
                     </place>
                     <place xml:id="Altafronte">
-                        <district type="castello">Castello d'Altafronte</district><link target="https://tei-c.org/release/doc/tei-p5-doc/en/html/CO.html#COXR"></link>
+                        <district type="castello">Castello d'Altafronte</district><link target="https://milenacorbellini.github.io/VaStoMap/"></link>
                     </place>
                     <place xml:id="Ponte_Rubaconte">
-                        <district type="ponte">Ponte Rubaconte</district>
+                        <district type="ponte">Ponte Rubaconte</district><link target="https://milenacorbellini.github.io/VaStoMap/"></link>
                     </place>
                     <place xml:id="P_dei_buoi">
                         <district type="porta">Porta dei buoi, o Porta di Messer Ruggieri da Quona</district>
                     </place>
                     <place xml:id="S_Iacopo">
-                        <district type="chiesa">San Iacopo</district>
+                        <district type="chiesa">San Iacopo</district><link target="https://milenacorbellini.github.io/VaStoMap/"></link>
                     </place>
                     <place xml:id="Piazza_SCroce">
-                        <district type="piazza">Piazza Santa Croce</district>
+                        <district type="piazza">Piazza Santa Croce</district><link target="https://milenacorbellini.github.io/VaStoMap/"></link>
                     </place>
                    
                     <place xml:id="Isola_dArno">
@@ -712,7 +715,7 @@
                         <district type="borgo">Borgo San Felicita </district>
                     </place>
                     <place xml:id="San_Felice">
-                        <district type="chiesa">San Felice in Piazza </district>
+                        <district type="chiesa">San Felice in Piazza </district><link target="https://milenacorbellini.github.io/VaStoMap/"></link>
                     </place>
                     <place xml:id="Borgo_SIacopo">
                         <district type="borgo">Borgo San Iacopo </district>
@@ -730,28 +733,28 @@
                         <settlement type="città">Fegghine </settlement>
                     </place>
                     <place xml:id="P_SanGallo">
-                        <district type="porta">Porta San Gallo </district>
+                        <district type="porta">Porta San Gallo </district><link target="https://milenacorbellini.github.io/VaStoMap/"></link>
                     </place>
                     <place xml:id="P_Niccolò">
-                        <district type="porta">Porta San Niccolò </district>
+                        <district type="porta">Porta San Niccolò </district><link target="https://milenacorbellini.github.io/VaStoMap/"></link>
                     </place>
                     <place xml:id="Frati_Valembrosa">
-                        <district type="monastero">Monastero dei Frati di San Salvi o Vallombrosa</district>
+                        <district type="monastero">Monastero dei Frati di San Salvi o Vallombrosa</district><link target="https://milenacorbellini.github.io/VaStoMap/"></link>
                     </place>
                     <place xml:id="P_Giustizia">
-                        <district type="monastero">Porta alla Giustizia</district>
+                        <district type="monastero">Porta alla Giustizia</district><link target="https://milenacorbellini.github.io/VaStoMap/"></link>
                     </place>
                     <place xml:id="Cantone">
                         <district type="porta"> Porta al Cantone</district>
                     </place>
                     <place xml:id="P_Prato">
-                        <district type="porta">Porta al Prato</district>
+                        <district type="porta">Porta al Prato</district><link target="https://milenacorbellini.github.io/VaStoMap/"></link>
                     </place>
                     <place xml:id="P_Reale">
-                        <district type="porta">Porta Reale</district>
+                        <district type="ponte">Ponte Reale</district><link target="https://milenacorbellini.github.io/VaStoMap/"></link>
                     </place>
                     <place xml:id="P_SanFriano">
-                        <district type="porta">Porta san Frediano</district>
+                        <district type="porta">Porta san Frediano</district><link target="https://milenacorbellini.github.io/VaStoMap/"></link>
                     </place>
                     <place xml:id="Camaldoli">
                         <district type="porta">Monastero dei Frati di San Francesco di Calmadoli</district>
@@ -760,7 +763,7 @@
                         <district type="porta">Porta Sant'Ambrogio</district>
                     </place>
                     <place xml:id="Rovezzano">
-                        <district type="rione">Rovezzano</district>
+                        <district type="rione">Rovezzano</district><link target="https://milenacorbellini.github.io/VaStoMap/"></link>
                     </place>
                     <place xml:id="P_Ghibellina">
                         <district type="porta">Porta Ghibellina, in segito denominata Porta Guelfa</district>
@@ -814,7 +817,7 @@
                         <district type="torre"> Torre</district>
                     </place>
                      <place xml:id="S_Girolamo">
-                        <district type="monastero"> Monastero dei frati mendichi di an San Girolamo</district>
+                        <district type="monastero"> Monastero dei frati mendichi di an San Girolamo</district><link target="https://milenacorbellini.github.io/VaStoMap/"></link>
                     </place>
                      <place xml:id="Vergine_Maria_Quercia">
                         <district type="chiesa"> Chiesa della vergine Maria in Quercia</district>
@@ -826,19 +829,19 @@
                         <district type="chiesa"> Chiesa di San Domenico</district>
                     </place>
                     <place xml:id="S_Maria_Novella">
-                        <district type="chiesa"> Chiesa di Santa Maria Novella</district>
+                        <district type="chiesa"> Chiesa di Santa Maria Novella</district><link target="https://milenacorbellini.github.io/VaStoMap/"></link>
                     </place>
                      <place xml:id="S_Croce">
                         <district type="borgo"> Borgo Santa Croce</district>
                     </place>
                     <place xml:id="S_Niccolo">
-                        <district type="mura"> Mura di San Niccolò</district>
+                        <district type="mura"> Mura di San Niccolò</district><link target="https://milenacorbellini.github.io/VaStoMap/"></link>
                     </place>
                      <place xml:id="Tiratoio">
                         <district type="tiratoio"> Tiratoio dell'Uccello</district>
                     </place>
                      <place xml:id="P_Arno">
-                        <district type="porta"> Porticciuola ad Arno</district>
+                        <district type="porta"> Porticciuola ad Arno</district><link target="https://milenacorbellini.github.io/VaStoMap/"></link>
                     </place>
                     <place xml:id="Borgo_SPero">
                         <district type="borgo"> Borgo San Piero</district>
