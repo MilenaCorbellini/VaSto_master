@@ -149,8 +149,8 @@
                         <persName type="fam_citata">Frescobaldi</persName>
                     </person>
                     <person xml:id="Cosimo">
-                        <persName type="pers_citata" sameAs="http://viaf.org/viaf/121802096"
-                            ref="http://www.treccani.it/enciclopedia/cosimo-de-medici_(Dizionario-Biografico)"
+                        <persName type="pers_citata" sameAs="https://viaf.org/viaf/51663930/"
+                            ref="https://www.treccani.it/enciclopedia/cosimo-i-de-medici-duca-di-firenze-granduca-di-toscana_%28Dizionario-Biografico%29/"
                             >Cosimo de' Medici</persName>
                     </person>
                     <person xml:id="Passerini">
